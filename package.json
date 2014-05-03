@@ -12,7 +12,8 @@
   "author": "Cassie",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "mocha": "~1.18.2"
+    "mocha": "~1.18.2",
+    "chai": "~1.9.1"
   },
   "bin": {
     "greet": "./bin/greet.js"
